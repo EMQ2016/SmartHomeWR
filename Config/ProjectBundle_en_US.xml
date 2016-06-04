@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Bundle>
+  <Entry key="Benutzername">Type in your username</Entry>
+  <Entry key="email">fabianemial@asdasd.de</Entry>
+  <Entry key="oid">1</Entry>
+  <Entry key="password">start123</Entry>
+  <Entry key="User">Fabian Meyer</Entry>
+  <Entry key="userName">fmeyer</Entry>
+</Bundle>
