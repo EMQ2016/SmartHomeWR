@@ -8,8 +8,8 @@
         <LinkParameter id="mov2#opm2#icu2#oln4#par18" name="Password_Password" source="mov2#opm2#icu2#icp1" target="mov2#opm2#lgu1.password"/>
       </OKLink>
     </InputCollectorUnit>
-    <OKCollectorUnit gr:x="940" gr:y="60" id="mov2#opm2#okcu1" name="OKPort"/>
-    <KOCollectorUnit gr:x="940" gr:y="135" id="mov2#opm2#kocu1" name="KOPort">
+    <OKCollectorUnit gr:x="940" gr:y="35" id="mov2#opm2#okcu1" name="OKPort"/>
+    <KOCollectorUnit gr:x="940" gr:y="165" id="mov2#opm2#kocu1" name="KOPort">
       <OutputCollectorParameter id="mov2#opm2#kocu1#ocp2" name="ErrorMsg"/>
     </KOCollectorUnit>
     <LoginUnit gr:x="525" gr:y="95" id="mov2#opm2#lgu1" name="Login">
