@@ -1,4 +1,4 @@
-<Page xmlns:gr="http://www.webratio.com/2006/WebML/Graph" xmlns:layout="http://www.webratio.com/2006/WebML/Layout" gr:x="615" gr:y="160" id="sv1#page2" name="Overview" protected="false" customURLName="form_page1.do">
+<Page xmlns:gr="http://www.webratio.com/2006/WebML/Graph" xmlns:layout="http://www.webratio.com/2006/WebML/Layout" gr:x="515" gr:y="55" id="sv1#page2" name="Overview" protected="false" customURLName="form_page1.do">
   <ContentUnits>
     <MultiMessageUnit gr:x="0" gr:y="0" id="sv1#page2#mssu1" name="Welcome">
       <Message xml:space="preserve">Hello World!</Message>

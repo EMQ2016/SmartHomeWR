@@ -47,6 +47,5 @@
       <db:JoinColumn attribute="moduleOID" name="mid"/>
     </RelationshipRole2>
   </Relationship>
-  <db:Database id="db2" name="freeapp83" type="MySQL (InnoDB)" url="jdbc:mysql://52.50.132.3:3306/freeapp83" username="freeapp83" password="ODZBNjIyOUQ=" cryptedPassword="true">
-  </db:Database>
+  <db:Database id="db2" name="freeapp83" type="MySQL (InnoDB)" url="jdbc:mysql://52.50.132.3:3306/freeapp83" username="freeapp83" password="ODZBNjIyOUQ=" cryptedPassword="true"/>
 </DataModel>
